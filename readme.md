@@ -12,6 +12,7 @@ aws s3 sync \
 ```
 
 **Provided Data:** \
+The processed data used for this project can be found at [link](https://drive.google.com/file/d/1Mz1VAHP2iBwdJk8uRrFB3UgaBoMnjZFD/view?usp=sharing).
 The data provided here are the curated data as processed from the data that can be downloaded via the directions above. 
 
 For each dataset (LINCS, Bray, Caicedo, and Rohban), the processed L1000 assay data (`replicate_level_cp_augmented.parquet`) and cellprofiler data (`replicate_level_l1k.parquet`) are provided. 
